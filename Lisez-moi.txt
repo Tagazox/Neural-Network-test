@@ -1,3 +1,3 @@
 La lettre D pour accelerer le temps A pour le ralentir.
-La lettre Q affiche et cache les capteur.
+La lettre Q affiche et cache les capteurs.
 ///Hipolyte Nioche///
